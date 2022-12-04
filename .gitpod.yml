@@ -1,0 +1,9 @@
+image:
+  file: .gitpod.Dockerfile
+
+vscode:
+  extensions:
+    - EditorConfig.EditorConfig
+    - eamodio.gitlens
+    - esbenp.prettier-vscode
+    - denoland.vscode-deno
