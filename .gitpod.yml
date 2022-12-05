@@ -7,3 +7,4 @@ vscode:
     - eamodio.gitlens
     - esbenp.prettier-vscode
     - denoland.vscode-deno
+    - scalameta.metals
