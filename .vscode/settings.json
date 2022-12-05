@@ -3,5 +3,11 @@
   "deno.lint": true,
   "prettier.enable": true,
   "editor.formatOnSave": true,
-  "editor.defaultFormatter": "esbenp.prettier-vscode"
+  "editor.defaultFormatter": "esbenp.prettier-vscode",
+  "files.watcherExclude": {
+    "**/target": true
+  },
+  "[scala]": {
+    "editor.defaultFormatter": "scalameta.metals"
+  }
 }
