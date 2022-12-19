@@ -1,0 +1,30 @@
+{
+  "version": "2",
+  "remote": {
+    "https://esm.sh/@mobily/ts-belt@3.13.1": "6a9ed90f5436d72d665c903b6ae9087c4e184f318ee731f78506b0f0f0b6d0e2",
+    "https://esm.sh/v99/@mobily/ts-belt@3.13.1/deno/ts-belt.js": "567315632ddccb36fbdfb08b31242109edea7be2b9a9f8a53bca0aa821204e9d",
+    "https://esm.sh/v99/@mobily/ts-belt@3.13.1/dist/types/Array/index.d.ts": "ceb1c0242bae80265fb04231c7a0459a3ebc46793f94354cf18c37af51d81143",
+    "https://esm.sh/v99/@mobily/ts-belt@3.13.1/dist/types/Bool/index.d.ts": "d24d172d6693df0f6dfa5015e4d29d567ee92c54c4f8268a595f3c2fef3fcdbb",
+    "https://esm.sh/v99/@mobily/ts-belt@3.13.1/dist/types/Dict/index.d.ts": "838a6bd869a4cc18d8e65c0d1f91b6f15994bfc4cfb7975d67f1e0f91fa12c64",
+    "https://esm.sh/v99/@mobily/ts-belt@3.13.1/dist/types/Function/index.d.ts": "d591ddb595ae94e7be53d71f8d3a07d71266429f4ffa15246c8675bbff90e266",
+    "https://esm.sh/v99/@mobily/ts-belt@3.13.1/dist/types/Guards/index.d.ts": "28346df7e01f034333594f4ef58a3ea5cf127badd9d4b69acc4a320967c230ad",
+    "https://esm.sh/v99/@mobily/ts-belt@3.13.1/dist/types/Number/index.d.ts": "61d54ecb192496a30f165d48426c2bc372323c853d03a9f5f508b015a23ede7e",
+    "https://esm.sh/v99/@mobily/ts-belt@3.13.1/dist/types/Option/index.d.ts": "64a87b86525154de4cbb64311cb01ef4b48bdcdfd34c9cb0d567476d257e7d0d",
+    "https://esm.sh/v99/@mobily/ts-belt@3.13.1/dist/types/Result/index.d.ts": "71e6a9c8a3c3363916bc6d72a589e466735b09aa44bc91853e92db3eb9a093a0",
+    "https://esm.sh/v99/@mobily/ts-belt@3.13.1/dist/types/String/index.d.ts": "c74957229fccfe3841a9b348c3ab2795d24a87f5b8b56cd375cee3e86d642017",
+    "https://esm.sh/v99/@mobily/ts-belt@3.13.1/dist/types/flow.d.ts": "9df5d82de67c0b7c3cd4c1bd94a4ea91a76a329440f43048e49159c9b952ebc7",
+    "https://esm.sh/v99/@mobily/ts-belt@3.13.1/dist/types/global.d.ts": "04d31aadecf874f368d224e99549747555bb5538ce8be0b8b98c1b5d715e19ab",
+    "https://esm.sh/v99/@mobily/ts-belt@3.13.1/dist/types/index.d.ts": "2d7169055316e789254925dcbae4970227b6a52c8caec9a782f924894ccdae33",
+    "https://esm.sh/v99/@mobily/ts-belt@3.13.1/dist/types/pipe.d.ts": "540455e2a9cc3fab7e0a56ac2ab5568035afba0228559db2ef17f363c2dccf34",
+    "https://esm.sh/v99/@mobily/ts-belt@3.13.1/dist/types/types.d.ts": "17798ff8f081f6cae66c13b2f0fa72f9387f346263bde78960161e4a382c8cea"
+  },
+  "npm": {
+    "specifiers": { "@mobily/ts-belt@3.13.1": "@mobily/ts-belt@3.13.1" },
+    "packages": {
+      "@mobily/ts-belt@3.13.1": {
+        "integrity": "sha512-K5KqIhPI/EoCTbA6CGbrenM9s41OouyK8A03fGJJcla/zKucsgLbz8HNbeseoLarRPgyWJsUyCYqFhI7t3Ra9Q==",
+        "dependencies": {}
+      }
+    }
+  }
+}

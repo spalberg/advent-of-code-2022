@@ -9,5 +9,13 @@
   },
   "[scala]": {
     "editor.defaultFormatter": "scalameta.metals"
-  }
+  },
+  "deno.inlayHints.parameterNames.suppressWhenArgumentMatchesName": true,
+  "deno.inlayHints.variableTypes.enabled": false,
+  "deno.inlayHints.propertyDeclarationTypes.enabled": false,
+  "deno.inlayHints.parameterTypes.enabled": false,
+  "deno.inlayHints.variableTypes.suppressWhenTypeMatchesName": true,
+  "deno.inlayHints.parameterNames.enabled": "none",
+  "deno.inlayHints.enumMemberValues.enabled": false,
+  "deno.inlayHints.functionLikeReturnTypes.enabled": false
 }
